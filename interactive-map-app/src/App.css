@@ -2,9 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.map-container {
+  height: 80vh;
+  width: 80%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
